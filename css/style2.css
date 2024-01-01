@@ -1,0 +1,28 @@
+.full-bg {
+  
+    background-image: url('../images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed; */
+    height: 100vh;
+    
+}
+
+.text3 {
+
+    text-align: center;
+  }
+
+  .hover-shadow {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #3498db;
+    color: #fff;
+    cursor: pointer;
+    transition: box-shadow 0.3s ease; /* Adding transition for smooth effect */
+  }
+  
+  .hover-shadow:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adding box shadow on hover */
+  }
