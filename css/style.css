@@ -28,3 +28,13 @@
     transform: rotateY(30deg);
     transform-style: preserve-3d;
   }
+
+  .text2 {
+   transform-style: preserve-3d;
+  }
+
+  .footer {
+  justify-content: center;  
+  margin-top: 44px;
+  color: whitesmoke;
+  }
