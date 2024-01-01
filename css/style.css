@@ -1,8 +1,30 @@
 .full-bg {
   
-    background-image: url('../images/backgroung.png.jpg');
+    background-image: url('../images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    /*background-attachment: fixed; */
     height: 100vh;
+    
 }
+
+.rounded-circle-border {
+    border-radius: 50%;
+    border: 3px solid #ccc;
+    overflow: hidden;
+    width: 300px;
+    height: auto;
+    }
+.col-md-4 {
+    color: whitesmoke;
+ } 
+ 
+ .three-d-paragraph {
+    perspective: 1000px;
+    transform: translateY(65px);
+  }
+
+  .text {
+    transform: rotateY(30deg);
+    transform-style: preserve-3d;
+  }
