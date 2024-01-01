@@ -7,3 +7,6 @@ A portfolio can showcase my skills and talents to employers looking to fill a pa
 This challenge will set me up for future success by applying the core skills i have recently learned: flexbox, media queries, and CSS variables and Bootstrap
 
 Below is a screenshoot link of myRepo
+
+![readme screenshot](https://github.com/mosesalabi21/Bootstrap-Portfolio/assets/151676316/4974a9e0-8b06-48a0-af11-1de20170639c)
+
